@@ -1,3 +1,6 @@
+# About the project
+This is an app created with ReactJs, Typescript, Redux, Rxjs and styled components.It aims to show case a real estate business and showcase its existing features.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
